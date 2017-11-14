@@ -4,7 +4,7 @@
 
   <groupId>org.walkerljl</groupId>
   <artifactId>tracer</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <modules>
     <module>tracer-logger</module>
   </modules>
@@ -15,7 +15,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <orgwalkerljl.toolkit.logging.version>1.0-SNAPSHOT</orgwalkerljl.toolkit.logging.version>
+    <orgwalkerljl.toolkit.logging.version>1.0.0-SNAPSHOT</orgwalkerljl.toolkit.logging.version>
   </properties>
 
   <dependencyManagement>
